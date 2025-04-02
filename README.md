@@ -1,6 +1,5 @@
 # Jonathan Malott, LEED AP BD+C
 
-**Email:** [JonathanMalott@utexas.edu](mailto:JonathanMalott@utexas.edu)  
 **Website:** [JonathanMalott.com](http://JonathanMalott.com)  
 
 ---
