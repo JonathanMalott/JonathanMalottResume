@@ -1,6 +1,7 @@
 # Jonathan Malott, LEED AP BD+C
 
-**Website:** [JonathanMalott.com](http://JonathanMalott.com)  
+**Email:** JonathanMalott@utexas.edu  
+**Website:** [JonathanMalott.com](https://JonathanMalott.com)  
 
 ---
 
@@ -8,87 +9,168 @@
 
 **The University of Texas at Austin**  
 *Master of Architecture, First Professional*  
-**August 2019 – December 2022**  
-GPA: 3.9
+**Dates:** August 2019 – December 2022  
+**GPA:** 3.9  
 
 **The University of Texas at Austin**  
 *Bachelor of Business Administration*  
-**August 2013 – May 2017**  
-GPA: 3.2
+**Dates:** August 2013 – May 2017  
+**GPA:** 3.2  
 
 ---
 
-## Professional Credentials
+## Credentials
 
-- **LEED AP, Building Design + Construction** – *August 2022 – Present*  
-- **Associate AIA** – *August 2023 – Present*
+- **LEED AP, Building Design + Construction** — August 2022 – Present  
+- **Associate AIA** — August 2023 – Present  
 
 ---
 
 ## Work Experience
 
-### **Escobedo Group**  
-*Architectural Designer, Research and Development Software Engineer*  
-**January 2023 – Present**  
-- Developed and led long-term R&D strategies to drive interoperability of ERP systems with BIM data.
-- Designed custom Odoo ERP submodules enhancing AEC functions such as cost estimation, takeoff, and installation workflows.
-- Directed cross-functional teams in deploying pyRevit automation scripts for optimized Revit workflows.
-- Built and deployed web applications using Autodesk Platform Services (APS) and Autodesk Construction Cloud; deployed on Heroku for scalable use.
-- Managed high-impact initiatives including:
-  - **BIM to ERP Integration:** Created custom BIM modules within Odoo for enhanced data flow and project management.
-  - **Revit and Inventor Workflow:** Developed efficient workflows to integrate data across modeling platforms in a vertically integrated, panelized construction process.
+### Escobedo Group  
+**Architectural Designer, Research and Development Software Engineer**  
+*January 2023 – Present*
 
-### **The University of Texas at Austin**  
-*Teaching Assistant, CNC and Robotics Lead*  
-**August 2020 – December 2022**  
-- Trained over 50 students in CNC and KUKA robotic arms.
-- Authored robotics and CNC curriculum and documentation.
-- Conducted workshops and demos for students, faculty, and professionals.
+**Company Background:**  
+Escobedo Group LLP is a vertically-integrated luxury home builder with in-house divisions for design, metal fabrication, stone milling, millwork, and cranes. It is responsible for the Dario Panelized System, which embeds electrical, plumbing, insulation, and cladding systems into prefabricated panels to improve framing efficiency and trade coordination.
 
-### **Kirksey Architecture**  
-*Intern, Healthcare Group*  
-**Summer 2021**  
-- Produced BIM models using Revit and AutoCAD for healthcare design.
-- Repurposed existing BIM assets for innovative clinical layouts.
+**Responsibilities:**
 
-### **PricewaterhouseCoopers LLP**  
-*Advisor Associate*  
-**July 2017 – May 2019**  
-- Led enterprise ERP implementations for mid-to-large-scale clients.
-- Managed project budgets and staffing across multiple workstreams.
-- Produced client deliverables and led PMO planning activities.
+- Led R&D initiatives for ERP-BIM interoperability and real-time construction data integration.
+- Engineered custom submodules in Odoo ERP to support AEC workflows.
+- Built web apps using Autodesk Platform Services for real-time model interaction.
+- Developed pyRevit automation tools to standardize Revit modeling/documentation.
+- Championed digital transformation and BIM data analytics.
+
+**Projects:**
+
+- **Revit–Inventor Data Exchange Workflows**  
+  Standardized collaboration pipeline between Revit and Inventor for prefabrication.
+
+- **BIM-to-Manufacturing Integration Strategy**  
+  Automated workflows for CNC-ready fabrication files from Revit elements.
+
+- **Executive Dashboards for Construction Analytics**  
+  Power BI dashboards aggregating Revit and ERP data for executive insights.
+
+- **Digital Strategy and Data Exchange Implementation**  
+  Piloted Autodesk Construction Cloud and Forge API interoperability.
+
+- **Enterprise Resource Planning (ERP) Implementation**  
+  Co-led Odoo ERP rollout, including custom modules for panel, metal, and millwork divisions.
+
+- **Enterprise-level Revit Plugin**  
+  Built custom pyRevit plugin to automate standards, sync ERP data, and manage fabrication elements.
+
+- **Build / Buy / Partner Analysis**  
+  Evaluated custom development vs off-the-shelf tools and strategic partnerships.
+
+- **Laser-scanned As-builts and Templates**  
+  Used Leica iCON tools to perform robotic layout and template as-built data.
+
+**Keywords:**
+
+Preconstruction, General Contractors, Strategy Development, Business Case Development,  
+Strategic Initiatives, Product Strategy, KPI-Driven Strategy, BIM, VDC, Estimating,  
+Bidding, Risk Management, Construction Technology, Project Documentation, IFC files,  
+Panelized Construction, ERP Integration (Odoo or similar)
+
+---
+
+### The University of Texas at Austin  
+**Teaching Assistant, CNC and Robotics Lead**  
+*August 2020 – December 2022*
+
+**Responsibilities:**
+
+- Trained 50+ students on CNC and KUKA robotic systems.
+- Authored educational content and ran workshops.
+  
+**Projects:**
+
+- **KUKA Robotic Arm Training and Curriculum Development**  
+  Managed robotics lab and created safety/training materials for end-effectors and operations.
+
+- **CNC Router Training, Demonstrations, Tutorials**  
+  Trained students on 3-axis Shopbot routers for interdisciplinary architecture projects.
+
+---
+
+### Kirksey Architecture  
+**Intern, Healthcare Group**  
+*Summer 2021*
+
+- Created Revit and AutoCAD BIM models for healthcare facilities.
+- Adapted legacy models into updated clinical designs.
+
+---
+
+### PricewaterhouseCoopers LLP  
+**Advisor Associate**  
+*July 2017 – May 2019*
+
+- Led ERP implementations for large organizations.
+- Managed budgets and staffing for multi-million dollar projects.
+- Handled PMO coordination and project deliverables.
 
 ---
 
 ## Honors & Certifications
 
-- **Research Fellowship**, *Good Systems at UT Austin* – Summer 2022  
-- **Professor Goldwin Goldsmith Memorial Scholarship in Architecture** – 2020–2021 academic year  
-- **LEED AP Building Design + Construction** – December 2021 – Present
+- Research Fellowship, Good Systems at UT Austin (Summer 2022)  
+- Professor Goldwin Goldsmith Memorial Scholarship in Architecture (2020–2021)  
+- LEED AP Building Design + Construction (December 2021 – Present)  
 
 ---
 
 ## Publications
 
-- **SSRN** – *Accessible Prototyping for KUKA Robotic Arms with Arduino*, May 2022  
-- **SSRN** – *A Proposal for an Interdisciplinary Design-Build Studio Focused On Ending Homelessness*, December 2021  
-- **SSRN** – *The Ethics of Professor-Architects Recruiting from Academic Design Studios*, May 2022  
+- **"Accessible Prototyping for KUKA Robotic Arms with Arduino"**  
+  SSRN — May 2022
+
+- **"A Proposal for an Interdisciplinary Design-Build Studio Focused On Ending Homelessness"**  
+  SSRN — December 2021
+
+- **"The Ethics of Professor-Architects Recruiting from Academic Design Studios"**  
+  SSRN — May 2022
 
 ---
 
 ## Skills
 
-**Fabrication:**  
-KUKA Robotic Arms, Fusion 360 CAM, CNC Routers, Laser-cutting  
+### Fabrication
+- Kuka Robotic Arms  
+- Fusion 360 CAM  
+- Waterjet Machines  
+- CNC Routers  
+- Laser-cutting  
 
-**Programming:**  
-Python, C++, JavaScript, HTML  
+### Programming
+- Python  
+- C++  
+- JavaScript  
+- HTML  
 
-**CAD Modeling:**  
-Revit, Rhino, AutoCAD, Inventor, Fusion 360  
+### CAD / Modeling
+- Revit  
+- Rhino  
+- AutoCAD  
+- Inventor  
+- Fusion 360  
 
-**Parametric Modeling & Scripting:**  
-Grasshopper, pyRevit Scripting, KUKA|PRC  
+### Parametric Modeling & Scripting
+- Grasshopper  
+- pyRevit Scripting  
+- KUKA|PRC  
 
-**Visual Communication:**  
-Photoshop, Illustrator, InDesign, Microsoft Office Suite, Google Docs  
+### Reporting
+- Power BI  
+- Microsoft Excel  
+
+### Visual Communication
+- Photoshop  
+- Illustrator  
+- InDesign  
+- Microsoft Office Suite  
+- Google Docs  
