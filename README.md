@@ -46,28 +46,28 @@ Escobedo Group LLP is a vertically-integrated luxury home builder with in-house 
 **Projects:**
 
 - **Revit–Inventor Data Exchange Workflows**  
-  Standardized collaboration pipeline between Revit and Inventor for prefabrication.
+  - Standardized collaboration pipeline between Revit and Inventor for prefabrication.
 
 - **BIM-to-Manufacturing Integration Strategy**  
-  Automated workflows for CNC-ready fabrication files from Revit elements.
+  - Automated workflows for CNC-ready fabrication files from Revit elements.
 
 - **Executive Dashboards for Construction Analytics**  
-  Power BI dashboards aggregating Revit and ERP data for executive insights.
+  - Power BI dashboards aggregating Revit and ERP data for executive insights.
 
 - **Digital Strategy and Data Exchange Implementation**  
-  Piloted Autodesk Construction Cloud and Forge API interoperability.
+  - Piloted Autodesk Construction Cloud and Forge API interoperability.
 
 - **Enterprise Resource Planning (ERP) Implementation**  
-  Co-led Odoo ERP rollout, including custom modules for panel, metal, and millwork divisions.
+  - Co-led Odoo ERP rollout, including custom modules for panel, metal, and millwork divisions.
 
 - **Enterprise-level Revit Plugin**  
-  Built custom pyRevit plugin to automate standards, sync ERP data, and manage fabrication elements.
+  - Built custom pyRevit plugin to automate standards, sync ERP data, and manage fabrication elements.
 
 - **Build / Buy / Partner Analysis**  
-  Evaluated custom development vs off-the-shelf tools and strategic partnerships.
+  - Evaluated custom development vs off-the-shelf tools and strategic partnerships.
 
 - **Laser-scanned As-builts and Templates**  
-  Used Leica iCON tools to perform robotic layout and template as-built data.
+  - Used Leica iCON tools to perform robotic layout and template as-built data.
 
 **Keywords:**
 
