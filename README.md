@@ -68,6 +68,7 @@ Escobedo Group LLP is a vertically-integrated luxury home builder with in-house 
 
 - **Laser-scanned As-builts and Templates**  
   - Used Leica iCON tools to perform robotic layout and template as-built data.
+  - We were one of the early adopters of this new tool. We worked with Leica and provided feedback and testing to improve the tool and make it more appropriate for the use cases we needed.
 
 **Keywords:**
 
@@ -103,6 +104,7 @@ Panelized Construction, ERP Integration (Odoo or similar)
 
 - Created Revit and AutoCAD BIM models for healthcare facilities.
 - Adapted legacy models into updated clinical designs.
+
 
 ---
 
