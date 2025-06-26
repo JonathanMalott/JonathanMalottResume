@@ -31,19 +31,8 @@
 **Architectural Designer, Research and Development Software Engineer**  
 *January 2023 – Present*
 
-**Company Background:**  
-Escobedo Group LLP is a vertically-integrated luxury home builder with in-house divisions for design, metal fabrication, stone milling, millwork, and cranes. It is responsible for the Dario Panelized System, which embeds electrical, plumbing, insulation, and cladding systems into prefabricated panels to improve framing efficiency and trade coordination.
-
-**Responsibilities:**
-
-- Led R&D initiatives for ERP-BIM interoperability and real-time construction data integration.
-- Engineered custom submodules in Odoo ERP to support AEC workflows.
-- Built web apps using Autodesk Platform Services for real-time model interaction.
-- Developed pyRevit automation tools to standardize Revit modeling/documentation.
-- Championed digital transformation and BIM data analytics.
-
-**Projects:**
-
+- Brought a problem‑solver who spots workflow gaps, rapidly prototypes BIM‑to‑ERP integrations, and adapts tools and processes to meet shifting project and client demands.
+- Influenced both software engineers and non-technical executives—translating complex BIM-to-ERP integration concepts into clear business value that secured buy-in and accelerated deployment timelines.
 - **Revit–Inventor Data Exchange Workflows**  
   - Standardized collaboration pipeline between Revit and Inventor for prefabrication.
 
@@ -68,6 +57,18 @@ Escobedo Group LLP is a vertically-integrated luxury home builder with in-house 
 - **Laser-scanned As-builts and Templates**  
   - Used Leica iCON tools to perform robotic layout and template as-built data.
   - We were one of the early adopters of this new tool. We worked with Leica and provided feedback and testing to improve the tool and make it more appropriate for the use cases we needed.
+  
+**Company Background:**  
+Escobedo Group LLP is a vertically-integrated luxury home builder with in-house divisions for design, metal fabrication, stone milling, millwork, and cranes. It is responsible for the Dario Panelized System, which embeds electrical, plumbing, insulation, and cladding systems into prefabricated panels to improve framing efficiency and trade coordination.
+
+**Responsibilities:**
+
+- Led R&D initiatives for ERP-BIM interoperability and real-time construction data integration.
+- Engineered custom submodules in Odoo ERP to support AEC workflows.
+- Built web apps using Autodesk Platform Services for real-time model interaction.
+- Developed pyRevit automation tools to standardize Revit modeling/documentation.
+- Championed digital transformation and BIM data analytics.
+
 
 **Keywords:**
 
@@ -137,6 +138,8 @@ Panelized Construction, ERP Integration (Odoo or similar)
   SSRN — May 2022
 
 ---
+## Core Competencies
+- Entrepreneurial problem‑solver who identifies workflow gaps, rapidly prototypes BIM‑to‑ERP integrations, and adapts tools and processes to meet shifting project and client demands.
 
 ## Skills
 
@@ -169,9 +172,18 @@ Panelized Construction, ERP Integration (Odoo or similar)
 - Power BI  
 - Microsoft Excel  
 
+### Construction Management
+- Procore
+- Smartsheet
+- Confluence
+- Odoo CRM
+
 ### Visual Communication
 - Photoshop  
 - Illustrator  
 - InDesign  
 - Microsoft Office Suite  
 - Google Docs  
+
+## Travel
+- Willing to travel up to 30% for customer visits, workshops, events, etc.
