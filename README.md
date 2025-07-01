@@ -31,13 +31,14 @@
 **Architectural Designer, Research and Development Software Engineer**  
 *January 2023 – Present*
 
--  Influenced both software engineers and non-technical executives—translating complex BIM-to-ERP integration concepts into clear business value that secured buy-in and accelerated deployment timelines.
-
 - **Revit–Inventor Data Exchange Workflows**  
   - Standardized collaboration pipeline between Revit and Inventor for prefabrication using Autodesk's Data Exchange platform.
 
 - **BIM-to-Manufacturing Integration Strategy**  
   - Automated workflows for CNC-ready fabrication files from Revit elements.
+ 
+- **Rhino Inside Revit workflows**  
+  - Developed detailed Grasshopper definitions that export Revit floor assemblies into Rhino, then automatically nest, label, and apply tolerance offsets for CNC fabrication.
 
 - **Executive Dashboards for Construction Analytics**  
   - Power BI dashboards aggregating Revit and ERP data for executive insights.
@@ -58,6 +59,8 @@
   - Used Leica iCON tools to perform robotic layout and template as-built data.
   - We were one of the early adopters of this new tool. We worked with Leica and provided feedback and testing to improve the tool and make it more appropriate for the use cases we needed.
   - Worked with members of Leica Geosystems team to provide feedback on tool usage to improve hardware and software.
+
+-  Influenced both software engineers and non-technical executives—translating complex BIM-to-ERP integration concepts into clear business value that secured buy-in and accelerated deployment timelines.
   
 **Company Background:**  
 Escobedo Group LLP is a vertically-integrated luxury home builder with in-house divisions for design, metal fabrication, stone milling, millwork, and cranes. It is responsible for the Dario Panelized System, which embeds electrical, plumbing, insulation, and cladding systems into prefabricated panels to improve framing efficiency and trade coordination.
