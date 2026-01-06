@@ -1,7 +1,7 @@
 # Jonathan Malott, AIA
 
 **Personal Portfolio Website:** [JonathanMalott.com](https://JonathanMalott.com)  
-**Github:** [github.com/JonathanMalot](https://github.com/JonathanMalot) 
+**Github:** [github.com/JonathanMalott](https://github.com/JonathanMalott) 
 
 ---
 
