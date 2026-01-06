@@ -28,6 +28,25 @@
 
 ---
 
+## Teaching Interests
+- Architectural Computation and Parametric Design
+- Digital Fabrication and Robotic Assembly
+- BIM, VDC, and Data-Driven Design Workflows
+- Design-Build Studios and Prefabrication Systems
+- Material Systems, Tolerances, and Making at Full Scale
+- Computational Literacy for Architects (Python, Grasshopper, BIM APIs)
+- Automation, Labor, and Ethics in Contemporary Architectural Practice
+- Interdisciplinary Collaboration between Architecture, Engineering, and Business
+
+## Classes I Would Be Best Suited to Teach
+- Construction
+- Structures
+- Environmental Controls
+- Digital Fabrication, including CNC router fabrication, KUKA robotic arm projects, 3D printing, laser cutting, pen plotting.
+- Digital Modeling, specifically Revit, Rhino, and Grasshopper.
+  
+---
+
 ## Work Experience
 
 ### Escobedo Group  
