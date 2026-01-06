@@ -1,4 +1,4 @@
-# Jonathan Malott, LEED AP BD+C
+# Jonathan Malott, AIA
 
 **Website:** [JonathanMalott.com](https://JonathanMalott.com)  
 
@@ -20,8 +20,10 @@
 
 ## Credentials
 
-- **LEED AP, Building Design + Construction** — August 2022 – Present  
-- **Associate AIA** — August 2023 – Present  
+
+- **Registered Architect, Texas Board of Architectural Examiners, License #33018** — December 2025 – Present
+- **American Institute of Architects, Member** — December 2025 – Present  
+- **LEED AP, Building Design + Construction** — August 2022 – Present 
 
 ---
 
