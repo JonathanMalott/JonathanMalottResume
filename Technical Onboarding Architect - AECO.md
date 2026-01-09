@@ -48,7 +48,7 @@ Technical onboarding and adoption leader with architecture licensure and deep ex
 ## Professional Experience
 
 ### Escobedo Group LLP  
-**Architectural Designer & R&D Software Engineer**  
+**Architect, Design Technology Lead**  
 *January 2023 – Present*
 
 Vertically integrated design-build and manufacturing organization operating at enterprise scale.
